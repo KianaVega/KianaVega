@@ -1,0 +1,6 @@
+{
+  "name": "tool-skins",
+  "version": "0.1.0",
+  "description": "Reskins how tool calls are drawn: an icon and a color per tool, in one of seven themes. Switch with /skin.",
+  "types": "./types/index.d.ts"
+}

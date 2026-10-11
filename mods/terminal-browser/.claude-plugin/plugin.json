@@ -1,0 +1,6 @@
+{
+  "name": "terminal-browser",
+  "version": "0.1.0",
+  "description": "/browse <url or file> opens a pane beside the chat showing a screenshot (where the terminal supports images) and the page text, so you can review pages without leaving the terminal.",
+  "types": "./types/index.d.ts"
+}

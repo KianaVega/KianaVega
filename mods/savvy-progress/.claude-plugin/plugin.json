@@ -1,0 +1,6 @@
+{
+  "name": "savvy-progress",
+  "version": "0.1.0",
+  "description": "Progress bar above the prompt plus a live panel of every subagent with its model, tokens and rough cost.",
+  "types": "./types/index.d.ts"
+}

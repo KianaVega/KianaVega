@@ -1,0 +1,6 @@
+{
+  "name": "cache-tax",
+  "version": "0.1.0",
+  "description": "Warns before a prompt that would reload a cold prompt cache, with a token and cost estimate. /keepwarm pings the session before the cache goes cold.",
+  "types": "./types/index.d.ts"
+}

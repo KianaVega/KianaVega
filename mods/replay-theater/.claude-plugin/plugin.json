@@ -1,0 +1,6 @@
+{
+  "name": "replay-theater",
+  "version": "0.1.0",
+  "description": "After each turn, a Replay button steps through every file edit Claude just made, one diff at a time.",
+  "types": "./types/index.d.ts"
+}

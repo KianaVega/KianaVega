@@ -1,0 +1,6 @@
+{
+  "name": "file-tree",
+  "version": "0.1.0",
+  "description": "A pane listing the files Claude reads and edits as a tree: highlighted while touched, green once committed. No tokens used.",
+  "types": "./types/index.d.ts"
+}
