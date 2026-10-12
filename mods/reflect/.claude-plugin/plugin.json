@@ -1,0 +1,6 @@
+{
+  "name": "reflect",
+  "version": "0.1.0",
+  "description": "When your feedback sounds like a correction, offers to save it as a permanent rule in CLAUDE.md.",
+  "types": "./types/index.d.ts"
+}

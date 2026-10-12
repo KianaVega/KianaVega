@@ -1,0 +1,6 @@
+{
+  "name": "you-should-know",
+  "version": "0.1.0",
+  "description": "A second agent reads each answer and pops up anything important you might miss: costs, risks, things that need your decision.",
+  "types": "./types/index.d.ts"
+}

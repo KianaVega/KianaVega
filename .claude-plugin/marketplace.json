@@ -1,0 +1,15 @@
+{
+  "name": "kianavega-mods",
+  "owner": { "name": "Kiana Vega" },
+  "plugins": [
+    { "name": "savvy-progress", "source": "./mods/savvy-progress" },
+    { "name": "tool-skins", "source": "./mods/tool-skins" },
+    { "name": "you-should-know", "source": "./mods/you-should-know" },
+    { "name": "file-tree", "source": "./mods/file-tree" },
+    { "name": "cache-tax", "source": "./mods/cache-tax" },
+    { "name": "blast-radius", "source": "./mods/blast-radius" },
+    { "name": "reflect", "source": "./mods/reflect" },
+    { "name": "terminal-browser", "source": "./mods/terminal-browser" },
+    { "name": "replay-theater", "source": "./mods/replay-theater" }
+  ]
+}

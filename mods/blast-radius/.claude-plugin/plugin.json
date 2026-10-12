@@ -1,0 +1,5 @@
+{
+  "name": "blast-radius",
+  "version": "0.1.0",
+  "description": "Stops risky shell commands (recursive delete, git clean, hard reset) and shows exactly which files would be affected before a human presses Proceed."
+}
